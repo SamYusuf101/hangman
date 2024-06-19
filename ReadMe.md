@@ -4,15 +4,11 @@ This project is a simple "Guess the Letters" game implemented in Python. The gam
 
 # How to Run
 
-git clone git@github.com:SamYusuf101/hangman.git
+git clone https://github.com/your-username/hangman.git
 
 # Choose directory
 
 cd hangman
-
-# Install the required dependencies if any
-
-    pip install -r requirements.txt
 
 # Run the Game:
 
@@ -28,3 +24,7 @@ After starting the game, you will see a series of underscores representing the h
 - If the letter is not in the word, you will lose one guess. The number of remaining guesses will be displayed.
 - Continue guessing letters until you either:
   Guess all the letters in the word correctly (win), or Run out of guesses (lose).
+
+  ## Answer (Spoiler)
+
+  The answer to the game is "David"
