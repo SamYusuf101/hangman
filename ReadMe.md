@@ -4,6 +4,8 @@ This project is a simple "Guess the Letters" game implemented in Python. The gam
 
 # How to Run
 
+git clone https://github.com/your-username/hangman.git
+
 # Choose directory
 
 cd hangman
